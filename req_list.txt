@@ -1,186 +1,96 @@
-
 Eric Roberts recomendacoes de Christopher Lee
 Categoria Drama
-{("l ladro dell'arcobaleno", 5.9), ('La texana e i fratelli Penitenza', 6.4), ('Penny and the Pownall Case', 5.8), ("l Rally piu' pazzo d'Africa", 4.8), ('Corridors of Blood', 6.5), ('Jinnah', 8.0)}
-Categoria Action
-{("l corsaro dell'isola verde", 7.3), ('Star Wars: Episodio III - La vendetta dei Sith', 7.5), ("Star Wars: Episodio II - L'attacco dei cloni", 6.5), ('pirati del fiume rosso', 6.0), ('l trono di fuoco', 3.5), ('ita privata di Sherlock Holmes', 7.1)}
-
-Eric Roberts recomendacoes de Gérard Depardieu
+{('Triade chiama canale 6', 5.6), ('essaggi da forze sconosciute', 5.9), ('Fu Manciù A.S.3: Operazione Tigre', 5.9), ('La vendetta di Fu Man Chu', 5.2), ('tre moschettieri', 5.7), ('Casablanca passage', 6.0)}Categoria Action
+{("l Rally piu' pazzo d'Africa", 4.8), ("Agente 007 - L'uomo dalla pistola d'oro", 6.8), ('Star Wars: Episodio III - La vendetta dei Sith', 7.5), ("L'ultimo dei Templari", 5.4), ('l ritorno dei tre moschettieri', 6.0)}Eric Roberts recomendacoes de Gérard Depardieu
 Categoria Drama
-{('Germinal', 7.1), ("L'autre Dumas", 6.3), ('Qualcosa di meraviglioso', 6.8), ('l commissario Le Guen e il caso Gassot', 5.4), ('Cadences obstinées', 4.8), ("Nemico pubblico n. 1 - L'istinto di morte", 7.5)}
-Categoria Action
-{('Lui portava i tacchi a spillo', 7.0), ('Les compères - Noi siamo tuo padre', 7.0), ('Temporale Rosy', 5.7), ('La capra', 7.4), ('Actors', 6.0)}
-
-Eric Roberts recomendacoes de Moritz Bleibtreu
+{('Ciao maschio', 6.5), ('Aime ton père', 6.2), ('Hamlet', 7.7), ('Crime Spree - Fuga da Chicago', 6.5), ('La truffa del secolo', 6.5), ('Due contro la città', 7.4)}Categoria Action
+{('Babylon A.D.', 5.6), ('Un commissario al di sotto di ogni sospetto', 6.3), ('Sólo se vive una vez', 4.5), ('La vendetta di Viktor', 3.9), ('Tre simpatiche carogne', 4.8)}Eric Roberts recomendacoes de Moritz Bleibtreu
 Categoria Drama
-{('ch war noch niemals in New York', 5.7), ('Roads', 6.3), ('Chiko', 6.8), ('Liebe deine Nächste!', 5.1), ('Schutzengel', 5.8), ('Das kalte Herz', 6.1)}
-Categoria Action
-{('Nicht mein Tag', 6.6), ("Knockin' on Heaven's Door", 8.0), ('Jerry Cotton', 5.3), ('Schutzengel', 5.8), ('La banda Baader Meinhof', 7.4), ('World War Z', 7.0)}
-
-Eric Roberts recomendacoes de Brahmanandam
+{('The Walker', 5.8), ('Nur Gott kann mich richten', 6.8), ('unich', 7.5), ('Agnes und seine Brüder', 6.7), ("Knockin' on Heaven's Door", 8.0), ('La banda Baader Meinhof', 7.4)}Categoria Action
+{('Schutzengel', 5.8), ('World War Z', 7.0), ('Jerry Cotton', 5.3), ('Abgeschnitten', 6.6)}Eric Roberts recomendacoes de Brahmanandam
 Categoria Drama
-{('kkadunnadu', 7.3), ('Chitemma Mogudu', 4.4), ('Kamma Rajyam Lo Kadapa Reddlu', 3.5), ('Greeku Veerudu', 4.6), ('Alluda Majaaka!', 6.3), ('Aata', 4.8)}
-Categoria Action
-{('Loukyam', 6.4), ('Hello Brother', 7.4), ('Anaganaga O Dheerudu', 5.1), ('arudu', 3.5), ('Krishna: The Power of Indrakeeladri', 6.3), ('Arya 2', 7.4)}
-
-Eric Roberts recomendacoes de Milhem Cortaz
+{('Jai Simha', 4.8), ('nttelligent', 3.0), ('Bavagaru Bagunnara?', 7.1), ('Namo Venkatesa', 5.4), ('Seema Tapakai', 6.1), ('Panchakshari', 3.8)}Categoria Action
+{('r. Nookayya', 6.3), ('Ready', 4.7), ('Seetharamula Kalyanam Lankalo', 4.3), ('aska', 5.2), ('Dhada', 3.7), ('Dongala Mutha', 3.8)}Eric Roberts recomendacoes de Milhem Cortaz
 Categoria Drama
-{('Crô: O Filme', 3.3), ('Sangue Azul', 6.4), ('Não Por Acaso', 7.0), ('Canastra Suja', 7.4), ('Mundo Cão', 6.7), ('Tungstênio', 6.8)}
-Categoria Action
-{('Tropa de elite - Gli squadroni della morte', 8.1), ('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('Boca do Lixo', 5.7), ('l più forte del mondo', 7.1)}
-
-
+{('Crô: O Filme', 3.3), ('Tungstênio', 6.8), ('s Parças', 4.1), ('A Concepção', 5.5), ('Não Por Acaso', 7.0)}Categoria Action
+{('Boca do Lixo', 5.7), ('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('Tropa de elite - Gli squadroni della morte', 8.1)}
 Christopher Lee recomendacoes de Eric Roberts
 Categoria Horror
-{('Graves End', 8.8), ('Chillerama', 5.7), ('Sink Hole', 2.9), ('Camp Dread', 3.8), ('A Cry from Within', 3.7), ('Run', 6.2)}
-Categoria Drama
-{('Submission', 5.1), ('l prezzo della fortuna', 5.1), ('Before I Sleep', 6.1), ('DOA: Dead or Alive', 4.8), ('l sostituto', 2.8), ('L.A. Slasher', 3.3)}
-
-Christopher Lee recomendacoes de Gérard Depardieu
+{('The Human Centipede III (Final Sequence)', 2.7), ('Westbrick Murders', 2.4), ('Snow White: A Deadly Summer', 2.1), ('Restraining Order', 4.5), ('Domani saranno uomini', 6.7), ('The Sector', 2.9)}Categoria Drama
+{('The Immortals', 5.6), ('n fuga dal passato', 4.1), ('Lo specialista', 5.6), ('l prezzo della fortuna', 5.1), ('The Code of Cain', 4.0), ('Beyond the Trophy', 4.9)}Christopher Lee recomendacoes de Gérard Depardieu
 Categoria Horror
-{('baroni della medicina', 6.2), ("L'ingorgo", 6.8), ('Sotto il sole di Satana', 6.8), ('lisa', 6.6), ("Nemico pubblico n. 1 - L'istinto di morte", 7.5), ('Streghe verso nord', 4.6)}
-Categoria Drama
-{('Welcome to New York', 1.6), ('l commissario Le Guen e il caso Gassot', 5.4), ('lisa', 6.6), ("Codice d'onore", 7.7), ("Paris, je t'aime", 7.2), ('am Dina - Questa è la mia storia', 6.6)}
-
-Christopher Lee recomendacoes de Moritz Bleibtreu
+{('Glenn, the Flying Robot', 3.8), ('La donna mancina', 6.5), ('Camille Claudel', 7.3), ("L'uomo che ride", 6.0), ('alley of Love', 6.0)}Categoria Drama
+{('Sotto il sole di Satana', 6.8), ('Troppo bella per te!', 6.7), ("À l'origine", 7.1), ('La vendetta di Viktor', 3.9), ('erci la vie, grazie alla vita', 6.6), ('l patto del silenzio', 5.7)}Christopher Lee recomendacoes de Moritz Bleibtreu
 Categoria Horror
-{('Die dunkle Seite des Mondes', 6.3), ('Woman in Gold', 7.3), ('Nur Gott kann mich richten', 6.8), ('Schutzengel', 5.8), ('World War Z', 7.0)}
-Categoria Drama
-{('ch war noch niemals in New York', 5.7), ('The Walker', 5.8), ('allanzasca - Gli angeli del male', 6.8), ('om Suchen und Finden der Liebe', 5.7), ('Gegengerade', 4.1), ('Das kalte Herz', 6.1)}
-
-Christopher Lee recomendacoes de Brahmanandam
+{('Jerry Cotton', 5.3), ('Schutzengel', 5.8), ('Woman in Gold', 7.3), ('l quarto stato', 6.1), ('erità apparente', 5.6), ('Lola corre', 7.6)}Categoria Drama
+{('allanzasca - Gli angeli del male', 6.8), ('l padre', 6.3), ('Le confessioni', 6.1), ('Lola corre', 7.6), ("L'eletto", 4.8)}Christopher Lee recomendacoes de Brahmanandam
 Categoria Horror
-{('Prema Kavali', 5.8), ('Nuvvu Leka Nenu Lenu', 6.3), ('Yamaleela', 7.5), ('aster', 6.6), ('Danger', 6.4), ('Bhale Dongalu', 4.3)}
-Categoria Drama
-{('Gamyam', 8.3), ('Rakhi', 6.3), ('Simha', 5.8), ('anchi Lakshanalunna Abbayi', 5.2), ('Krishna: The Power of Indrakeeladri', 6.3), ('Chenna Kesava Reddy', 6.0)}
-
-Christopher Lee recomendacoes de Milhem Cortaz
+{('Damarukam', 5.3), ('King', 6.5), ('aanam', 7.2), ('Kick', 2.8), ('asss', 6.0), ('Anukshanam', 6.4)}Categoria Drama
+{('Gamyam', 8.3), ('Anaganaga O Dheerudu', 5.1), ('Wanted', 4.0), ('rra Buss', 6.1), ('Hello Brother', 7.4), ('Jai Chiranjeeva', 5.8)}Christopher Lee recomendacoes de Milhem Cortaz
 Categoria Horror
-{('l più forte del mondo', 7.1), ('Trinta', 6.6), ('Tropa de elite - Gli squadroni della morte', 8.1), ('Através da Janela', 5.6), ('Tungstênio', 6.8)}
-Categoria Drama
-{('Querô', 6.8), ('Alemão', 6.1), ('Nossa Vida Não Cabe Num Opala', 5.4), ('Nome Próprio', 6.3), ('Se Nada Mais Der Certo', 7.1), ('Através da Janela', 5.6)}
-
-
+{('Garrincha: Estrela Solitária', 5.1), ('Querô', 6.8), ('Journey to the End of the Night', 5.8), ('Lula, o Filho do Brasil', 4.2), ('Não Por Acaso', 7.0)}Categoria Drama
+{('l più forte del mondo', 7.1), ('Nossa Vida Não Cabe Num Opala', 5.4), ('Tungstênio', 6.8), ('Nina', 6.2), ('Trinta', 6.6), ('Nome Próprio', 6.3)}
 Gérard Depardieu recomendacoes de Eric Roberts
 Categoria Drama
-{('nvito ad uccidere', 6.0), ('nemies Among Us', 2.2), ('Snow White: A Deadly Summer', 2.1), ('Scavenger Killers', 4.2), ('l sostituto', 2.8), ('Bed & Breakfast: Love is a Happy Accident', 5.1)}
-Categoria Comedy
-{('aximum Impact', 2.0), ('Self Storage', 3.1), ('Hollywood Dreams', 4.6), ('l cavaliere oscuro', 9.0), ('Spreading Darkness', 3.5), ('Paranormal Movie', 2.2)}
-
-Gérard Depardieu recomendacoes de Christopher Lee
+{('Angels Fallen', 4.3), ('Wildflowers', 5.6), ('xecutor', 3.8), ('nemies Among Us', 2.2), ('Submission', 5.1), ('Six - La corporazione', 4.2)}Categoria Comedy
+{("t's Not a Date", 4.3), ('aximum Impact', 2.0), ('n fuga dal passato', 4.1), ('Road to the Open', 6.8), ('nside the Rain', 4.5), ('Sensation', 6.0)}Gérard Depardieu recomendacoes de Christopher Lee
 Categoria Drama
-{('Treno di notte per Lisbona', 6.8), ('La vendetta di Fu Man Chu', 5.2), ('nd of the World', 2.6), ('La battaglia del V1', 5.8), ('l trono di fuoco', 3.5), ('La vergine di Norimberga', 5.9)}
-Categoria Comedy
-{('La vendetta di Fu Man Chu', 5.2), ('Star Wars: Episodio III - La vendetta dei Sith', 7.5), ('Triade chiama canale 6', 5.6), ('Avventura araba', 5.8), ("L'ultimo dei Templari", 5.4)}
-
-Gérard Depardieu recomendacoes de Moritz Bleibtreu
+{('La mummia', 5.4), ("l segreto del narciso d'oro", 5.6), ('Dracula, principe delle tenebre', 6.8), ('Scuola di polizia: Missione a Mosca', 3.6), ('erso la città del terrore', 7.1)}Categoria Comedy
+{('Avventura araba', 5.8), ("l Rally piu' pazzo d'Africa", 4.8), ('La fabbrica di cioccolato', 6.6), ('tre moschettieri', 5.7), ('l ritorno dei tre moschettieri', 6.0)}Gérard Depardieu recomendacoes de Moritz Bleibtreu
 Categoria Drama
-{('l padre', 6.3), ('Lola corre', 7.6), ('m Juli', 7.7), ('Schutzengel', 5.8), ('La banda Baader Meinhof', 7.4), ('om Suchen und Finden der Liebe', 5.7)}
-Categoria Comedy
-{('ch war noch niemals in New York', 5.7), ('Luna Papa', 7.3), ('The Keeper: The Legend of Omar Khayyam', 6.4), ('Soul Kitchen', 7.3), ('Liebe deine Nächste!', 5.1)}
-
-Gérard Depardieu recomendacoes de Brahmanandam
+{('Lammbock', 7.3), ('Le confessioni', 6.1), ('Zeiten ändern Dich', 2.9), ('Soul Kitchen', 7.3), ('Fatal Agents', 6.8)}Categoria Comedy
+{('l truffatore - The C(r)ook', 6.5), ('Das kalte Herz', 6.1), ('Free Rainer', 6.7), ('Schutzengel', 5.8), ('The Keeper: The Legend of Omar Khayyam', 6.4), ('m Juli', 7.7)}Gérard Depardieu recomendacoes de Brahmanandam
 Categoria Drama
-{('Yuvaraju', 5.7), ('Sooryavansham', 6.3), ('Anandam', 7.1), ('Jai Simha', 4.8), ('Dhoni', 6.7), ('Coolie No. 1', 6.5)}
-Categoria Comedy
-{('Aditya 369', 8.4), ('Achari America Yathra', 5.8), ('Anaganaga Oka Roju', 7.1), ('Allari Mogudu', 5.8), ('Donga Police', 3.0), ('Devudu Chesina Manushulu', 3.6)}
-
-Gérard Depardieu recomendacoes de Milhem Cortaz
+{('Welcome Back', 4.2), ('Yamajaathakudu', 4.9), ('Sneham Kosam', 6.5), ('Lankeshwarudu', 6.5), ('ennela', 7.0), ('utamestri', 7.0)}Categoria Comedy
+{('Silly Fellows', 5.9), ('Bobby', 6.6), ('Pellam Oorelithe', 6.8), ('Allari Bullodu', 3.0), ('Aagadu', 5.4), ('ayalodu', 7.0)}Gérard Depardieu recomendacoes de Milhem Cortaz
 Categoria Drama
-{('Billi Pig', 3.7), ('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('Lobo Atrás da Porta', 7.4), ('Dang kou', 4.6), ('Se Nada Mais Der Certo', 7.1)}
-Categoria Comedy
-{('s Parças', 4.1), ('Boca do Lixo', 5.7), ('Cine Holliúdy 2: A Chibata Sideral', 6.4), ('Billi Pig', 3.7)}
-
-
+{('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('agnata', 4.6), ('alasartes e o Duelo com a Morte', 6.1), ('Através da Janela', 5.6), ('undo Cão', 6.7)}Categoria Comedy
+{('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('Crô: O Filme', 3.3), ('Boca do Lixo', 5.7), ('Cheiro do Ralo', 7.4), ('Cine Holliúdy 2: A Chibata Sideral', 6.4), ('s Homens São de Marte... E é pra Lá que Eu Vou!', 5.9)}
 Moritz Bleibtreu recomendacoes de Eric Roberts
 Categoria Drama
-{('Fuoco a oriente', 5.9), ('Coca Cola kid', 6.0), ('The Beatnicks', 5.2), ('Prayer Never Fails', 4.5), ('The Wayshower', 3.6), ('Frank and Ava', 3.6)}
-Categoria Comedy
-{('Chicks Dig Gay Guys', 3.6), ('The Opposite Sex', 4.5), ('Coca Cola kid', 6.0), ('Domani saranno uomini', 6.7), ('Randagi', 5.2), ('Babyfever', 5.6)}
-
-Moritz Bleibtreu recomendacoes de Christopher Lee
+{('This Is Our Time', 5.5), ('Falso indizio', 4.8), ("The King's Guard", 3.2), ('micidio a New Orleans', 5.8), ('Sensation', 6.0)}Categoria Comedy
+{("L'amore si fa largo", 3.2), ('50 anni in rosa', 5.1), ('nvito ad uccidere', 6.0), ('American Sharia', 3.6), ('Hollywood Dreams', 4.6), ('onster Island', 4.8)}Moritz Bleibtreu recomendacoes de Christopher Lee
 Categoria Drama
-{('Con la bava alla bocca', 5.5), ('Le avventure del capitano Hornblower (Il temerario)', 7.3), ('23 pugnali per Cesare', 6.1), ('Sopravvissuti: 2', 6.6), ("Ritorno dall'ignoto", 5.8)}
-Categoria Comedy
-{("l corsaro dell'isola verde", 7.3), ('Funny Man', 4.6), ('essaggi da forze sconosciute', 5.9), ('l terrore dei Tongs', 5.8), ('pirati del fiume rosso', 6.0), ('ltre Mombasa', 5.8)}
-
-Moritz Bleibtreu recomendacoes de Gérard Depardieu
+{("l ladro dell'arcobaleno", 5.9), ('tre moschettieri', 5.7), ('Corridors of Blood', 6.5), ("La bussola d'oro", 6.1), ('Londra a mezzanotte', 6.2), ('La sposa cadavere', 7.3)}Categoria Comedy
+{("fiumi di porpora 2 - Gli angeli dell'apocalisse", 6.0), ("Ritorno dall'ignoto", 5.8), ('Triade chiama canale 6', 5.6), ('Funny Man', 4.6), ('essaggi da forze sconosciute', 5.9), ('l ritorno dei tre moschettieri', 6.0)}Moritz Bleibtreu recomendacoes de Gérard Depardieu
 Categoria Drama
-{('Novecento', 7.7), ('Niente può fermarci', 5.0), ('La Vie En Rose', 7.6), ('Sotto il sole di Satana', 6.8), ('Danton', 7.5), ('Jean de Florette', 8.0)}
-Categoria Comedy
-{('San Antonio', 3.6), ('RRRrrrr!!!', 5.9), ('Bouquet final', 5.9), ('Sólo se vive una vez', 4.5), ('Sogno di una notte di mezza età - Amoureux de ma femme', 5.4), ('santissimi', 7.3)}
-
-Moritz Bleibtreu recomendacoes de Brahmanandam
+{('Gli aquiloni non muoiono in cielo', 6.8), ('Qualcosa di meraviglioso', 6.8), ('Le garçu', 6.8), ('am Dina - Questa è la mia storia', 6.6), ('Due contro la città', 7.4), ('Cadences obstinées', 4.8)}Categoria Comedy
+{('Cari amici miei...', 6.3), ('La vie de Michel Muller est plus belle que la vôtre', 4.6), ('Boudu', 5.3), ('Le plus beau métier du monde', 5.7), ('i amo', 5.9)}Moritz Bleibtreu recomendacoes de Brahmanandam
 Categoria Drama
-{('Yuvaraju', 5.7), ('Gamyam', 8.3), ('Aditya 369', 8.4), ('Golmaal', 7.0), ('Killer', 6.5), ('Theeya Velai Seiyyanum Kumaru', 6.1)}
-Categoria Comedy
-{('Super', 5.1), ('Sardaar Gabbar Singh', 4.8), ('Balupu', 6.1), ('Dongala Mutha', 3.8), ('ayalodu', 7.0), ('Naani', 5.2)}
-
-Moritz Bleibtreu recomendacoes de Milhem Cortaz
+{('Gayatri', 6.5), ('Khaidi No. 150', 6.0), ('Naani', 5.2), ('Jhummandi Naadam', 5.3), ('Wanted', 4.0), ('Gaganam', 7.1)}Categoria Comedy
+{('Sundara Kanda', 7.0), ('Julayi', 7.2), ('Chitram Bhalare Vichitram', 6.7), ('Yuvaraju', 5.7), ('Aa Okkati Adakku', 7.8), ('Seema Tapakai', 6.1)}Moritz Bleibtreu recomendacoes de Milhem Cortaz
 Categoria Drama
-{('Cine Holliúdy 2: A Chibata Sideral', 6.4), ('Tropa de elite - Gli squadroni della morte', 8.1), ('Lula, o Filho do Brasil', 4.2), ('Canastra Suja', 7.4), ('Através da Janela', 5.6), ('agnata', 4.6)}
-Categoria Comedy
-{('Cheiro do Ralo', 7.4), ('alasartes e o Duelo com a Morte', 6.1), ('Billi Pig', 3.7), ('Cine Holliúdy 2: A Chibata Sideral', 6.4)}
-
-
+{('Querô', 6.8), ('Se Nada Mais Der Certo', 7.1), ('Cheiro do Ralo', 7.4), ('Dang kou', 4.6), ('Lula, o Filho do Brasil', 4.2), ('Alemão', 6.1)}Categoria Comedy
+{('s Homens São de Marte... E é pra Lá que Eu Vou!', 5.9), ('Tropa de elite 2 - Il nemico ora è un altro', 8.0), ('Crô: O Filme', 3.3), ('s Parças', 4.1)}
 Brahmanandam recomendacoes de Eric Roberts
 Categoria Action
-{('Project Solitude', 5.8), ('nvito ad uccidere', 6.0), ('The Perfect Summer', 5.4), ('Lo specialista', 5.6), ('L.A. Slasher', 3.3), ('nside the Rain', 4.5)}
-Categoria Drama
-{('Prayer Never Fails', 4.5), ('Restraining Order', 4.5), ('Sensation', 6.0), ('Avrora', 6.3), ('National Security - Sei in buone mani', 5.6), ('Fast Sofa', 4.8)}
-
-Brahmanandam recomendacoes de Christopher Lee
+{('Surge of Power: Revenge of the Sequel', 5.1), ('Six Gun Savior', 3.1), ('Fast Sofa', 4.8), ('Coca Cola kid', 6.0), ('Babyfever', 5.6), ('Six - La corporazione', 4.2)}Categoria Drama
+{('ntoxicating - Quando il vizio di distrugge', 4.8), ('Wildflowers', 5.6), ('National Security - Sei in buone mani', 5.6), ('Dark Moon Rising', 3.6), ('oments of Clarity', 5.7), ('White T', 4.3)}Brahmanandam recomendacoes de Christopher Lee
 Categoria Action
-{('Beat Girl', 6.0), ('Sherlock Holmes - La valle del terrore', 5.5), ('La nave del diavolo', 6.1), ('Avventura araba', 5.8), ("Agente 007 - L'uomo dalla pistola d'oro", 6.8), ('ita privata di Sherlock Holmes', 7.1)}
-Categoria Drama
-{('The Return of Captain Invincible', 5.9), ('Le amanti di Dracula', 6.6), ('Sherlock Holmes - La valle del terrore', 5.5), ('Walker Payne', 6.0), ("Tradire è un'arte - Boogie Woogie", 5.2), ("cinque draghi d'oro", 5.0)}
-
-Brahmanandam recomendacoes de Gérard Depardieu
+{("fiumi di porpora 2 - Gli angeli dell'apocalisse", 6.0), ("L'avaro", 6.1), ('Paul Temple Returns', 5.8), ('Tempesta sul Nilo', 6.2), ('Le amanti di Dracula', 6.6), ('Dark Shadows', 6.2)}Categoria Drama
+{('The Girl from Nagasaki', 7.0), ('Una messa per Dracula', 6.4), ('Serial', 6.6), ('La fabbrica di cioccolato', 6.6), ("L'assassino colpisce a tradimento", 5.6), ('La battaglia del V1', 5.8)}Brahmanandam recomendacoes de Gérard Depardieu
 Categoria Action
-{('RRRrrrr!!!', 5.9), ('Les compères - Noi siamo tuo padre', 7.0), ('La marque des anges - Miserere', 5.7), ('Diamond 13', 5.1), ("Codice d'onore", 7.7), ('Le divan de Staline', 4.6)}
-Categoria Drama
-{('Lui portava i tacchi a spillo', 7.0), ("Un po' di sole nell'acqua gelida", 5.2), ('Ciao maschio', 6.5), ('Dogs man', 6.1), ('santissimi', 7.3), ('Convoi exceptionnel', 4.5)}
-
-Brahmanandam recomendacoes de Moritz Bleibtreu
+{("L'ultima donna", 6.6), ("Paris, je t'aime", 7.2), ('Ahimè!', 6.3), ('idocq', 6.5), ('A Small World - Ricordi lontani', 6.6), ('l patto del silenzio', 5.7)}Categoria Drama
+{("Nemico pubblico n. 1 - L'istinto di morte", 7.5), ("L'ingorgo", 6.8), ("Drôle d'endroit pour une rencontre", 6.4), ('Bonne pomme', 5.3), ('Streghe verso nord', 4.6), ('Dogs man', 6.1)}Brahmanandam recomendacoes de Moritz Bleibtreu
 Categoria Action
-{('Lippels Traum', 5.5), ('Stadtgespräch', 6.3), ('m Juli', 7.7), ('Quellen des Lebens', 6.4)}
-Categoria Drama
-{('Woman in Gold', 7.3), ('Lommbock', 6.8), ('l padre', 6.3), ('Agnes und seine Brüder', 6.7), ('Le particelle elementari', 6.6), ('Lippels Traum', 5.5)}
-
-Brahmanandam recomendacoes de Milhem Cortaz
+{('Lommbock', 6.8), ('Passioni e desideri', 6.2), ('World War Z', 7.0), ('Liebe deine Nächste!', 5.1), ('Rico, Oskar und das Herzgebreche', 6.4), ('Agnes und seine Brüder', 6.7)}Categoria Drama
+{('l truffatore - The C(r)ook', 6.5), ('Lommbock', 6.8), ('l mio miglior nemico', 6.7), ('Schutzengel', 5.8), ('m Juli', 7.7), ('Bye Bye Germany', 6.5)}Brahmanandam recomendacoes de Milhem Cortaz
 Categoria Action
-{('Querô', 6.8), ('Garrincha: Estrela Solitária', 5.1), ('Lobo Atrás da Porta', 7.4), ('Nossa Vida Não Cabe Num Opala', 5.4), ('Canastra Suja', 7.4), ('Cabra-Cega', 6.3)}
-Categoria Drama
-{('Lobo Atrás da Porta', 7.4), ('Cine Holliúdy 2: A Chibata Sideral', 6.4), ('Amanhã Nunca Mais', 5.6), ('Nossa Vida Não Cabe Num Opala', 5.4)}
-
-
+{('Crô: O Filme', 3.3), ('Tropa de elite - Gli squadroni della morte', 8.1), ('l più forte del mondo', 7.1), ('Journey to the End of the Night', 5.8), ('Cabra-Cega', 6.3)}Categoria Drama
+{('l più forte del mondo', 7.1), ('Se Nada Mais Der Certo', 7.1), ('A Concepção', 5.5), ('s Homens São de Marte... E é pra Lá que Eu Vou!', 5.9), ('Alemão', 6.1), ('Através da Janela', 5.6)}
 Milhem Cortaz recomendacoes de Eric Roberts
 Categoria Drama
-{('nvito ad uccidere', 6.0), ('The Beatnicks', 5.2), ('oments of Clarity', 5.7), ('L.A. Slasher', 3.3), ('Cross 3', 2.2)}
-Categoria Comedy
-{('A Talking Cat!?!', 2.3), ('Un viaggio indimenticabile', 4.7), ('Coca Cola kid', 6.0), ('50 anni in rosa', 5.1), ('Rock Slyde', 5.6)}
-
-Milhem Cortaz recomendacoes de Christopher Lee
+{('Un viaggio indimenticabile', 4.7), ('The Civilization of Maxwell Bright', 6.4), ('n fuga dal passato', 4.1), ('American Sharia', 3.6), ('Spreading Darkness', 3.5), ('Six - La corporazione', 4.2)}Categoria Comedy
+{("L'amore si fa largo", 3.2), ('Chicks Dig Gay Guys', 3.6), ('All American Christmas Carol', 4.5), ('Babyfever', 5.6), ('Bed & Breakfast: Love is a Happy Accident', 5.1)}Milhem Cortaz recomendacoes de Christopher Lee
 Categoria Drama
-{('Rasputin: il monaco folle', 6.3), ("l ladro dell'arcobaleno", 5.9), ('The keeper: il custode', 4.6), ("l segreto del narciso d'oro", 5.6), ("Airport '77", 5.8), ('Walker Payne', 6.0)}
-Categoria Comedy
-{('The Rosebud Beach Hotel', 4.6), ("Tradire è un'arte - Boogie Woogie", 5.2), ('Le incredibili avventure del signor Grand col complesso del miliardo e il pallino della truffa', 6.0), ('Jocks', 3.8), ('Jackpot', 2.0), ('Dark Shadows', 6.2)}
-
-Milhem Cortaz recomendacoes de Gérard Depardieu
+{('Dracula il vampiro', 7.3), ("l segreto del narciso d'oro", 5.6), ('The Resident', 5.3), ('nd of the World', 2.6), ('The keeper: il custode', 4.6), ('Rasputin: il monaco folle', 6.3)}Categoria Comedy
+{('Gremlins 2 - La nuova stirpe', 6.4), ('The Rosebud Beach Hotel', 4.6), ('Serial', 6.6), ('The Return of Captain Invincible', 5.9), ('Jocks', 3.8)}Milhem Cortaz recomendacoes de Gérard Depardieu
 Categoria Drama
-{('Green Card - Matrimonio di convenienza', 6.2), ('Una pura formalità', 7.7), ('Due fuggitivi e mezzo', 7.1), ('A Farewell to Fools', 5.4), ('36', 7.0)}
-Categoria Comedy
-{('Buffet freddo', 7.4), ("Bogus - L'amico immaginario", 5.4), ('Actors', 6.0), ('Hello Goodbye', 5.1), ('Les invincibles', 5.3)}
-
-Milhem Cortaz recomendacoes de Moritz Bleibtreu
+{('Danton', 7.5), ('l colonnello chabert', 6.9), ('City of Ghosts', 6.0), ('baroni della medicina', 6.2), ('oglio tornare a casa!', 5.6), ('Dogs man', 6.1)}Categoria Comedy
+{('Jean de Florette', 8.0), ("L'autre Dumas", 6.3), ('Turf', 4.1), ('Le cri du cormoran, le soir au-dessus des jonques', 5.7), ('Le tartuffe', 6.2), ('Alta, bella e pericolosa', 5.1)}Milhem Cortaz recomendacoes de Moritz Bleibtreu
 Categoria Drama
-{('Luna Papa', 7.3), ('The Experiment - Cercasi cavie umane', 7.7), ("L'eletto", 4.8), ('Gegengerade', 4.1), ('Jerry Cotton', 5.3), ('Abgeschnitten', 6.6)}
-Categoria Comedy
-{('ijay - Il mio amico indiano', 5.3), ('Lammbock', 7.3), ('Luna Papa', 7.3), ('Soul Kitchen', 7.3), ('Free Rainer', 6.7)}
-
-Milhem Cortaz recomendacoes de Brahmanandam
+{('Lammbock', 7.3), ('allanzasca - Gli angeli del male', 6.8), ('Chiko', 6.8), ('Lola corre', 7.6), ('Soul Kitchen', 7.3), ('Solino', 7.4)}Categoria Comedy
+{('Lommbock', 6.8), ('Free Rainer', 6.7), ('Luna Papa', 7.3), ('ijay - Il mio amico indiano', 5.3), ('Soul Kitchen', 7.3)}Milhem Cortaz recomendacoes de Brahmanandam
 Categoria Drama
-{('Kitakitalu', 5.8), ('Shankardada Zindabad', 5.2), ('Dongala Mutha', 3.8), ('Jai Simha', 4.8), ('Jai Chiranjeeva', 5.8), ('Aa Okkati Adakku', 7.8)}
-Categoria Comedy
-{('Silly Fellows', 5.9), ('Seema Tapakai', 6.1), ('Yamaleela', 7.5), ('Achari America Yathra', 5.8), ('Babu Bangaram', 5.3), ('Race Gurram', 7.2)}
-
+{('Rama Rama Krishna Krishna', 5.4), ('Happy', 5.0), ('New', 6.3), ('Swayam Krushi', 8.3), ('Neninthe', 6.8), ('Loafer', 5.2)}Categoria Comedy
+{('Subramanyam for Sale', 6.0), ('Ready', 4.7), ('Tappu Chesi Pappu Koodu', 5.4), ('Jayammu Nischayammu Raa!', 6.8), ('aragadha Naanayam', 7.0), ('Appula Appa Rao', 7.2)}
